@@ -33,9 +33,9 @@ no rented black box, no Sevives SaaS.
 
 ### 🚀 What we build
 
-- **Maîtrise IA** — get your team fluent and productive with AI.
-- **Community & Campagne IA** — AI-driven content & campaigns at scale.
-- **Génération Visuelle IA** — AI visual production pipelines.
+- **AI Mastery** — get your team fluent and productive with AI.
+- **AI Community & Campaigns** — AI-driven content & campaigns at scale.
+- **AI Visual Generation** — AI visual production pipelines.
 
 ---
 
