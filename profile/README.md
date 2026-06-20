@@ -40,5 +40,5 @@ no rented black box, no Sevives SaaS.
 ---
 
 <div align="center">
-<sub>SevivɘƧ Agency — Brussels · Alicante — <a href="https://sevives.com">sevives.com</a></sub>
+<sub>SevivɘƧ Agency — Alicante · Brussels — <a href="https://sevives.com">sevives.com</a></sub>
 </div>
