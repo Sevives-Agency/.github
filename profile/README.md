@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Sevives-Agency/.github/main/profile/banner.png" alt="SevivɘƧ Agency" width="100%" />
 
-### AI automation for small businesses — built to ship, built to own.
+### AI automation for small businesses — Built to ship, built to own.
 
 [Website](https://sevives.com) • [Public Roadmap](https://github.com/orgs/Sevives-Agency/projects/4) • [Labs](https://github.com/Sevives-Agency/sevives-labs) • [Showcase](https://github.com/Sevives-Agency/sevives-showcase)
 
