@@ -34,11 +34,11 @@ no rented black box, no Sevives SaaS.
 ### 🚀 What we build
 
 - **AI Mastery** — get your team fluent and productive with AI.
-- **AI Community & Campaigns** — AI-driven content & campaigns at scale.
+- **Network Management & Advertising Campaigns** — AI-driven content & campaigns at scale.
 - **AI Visual Generation** — AI visual production pipelines.
 
 ---
 
 <div align="center">
-<sub>SevivɘƧ Agency — Alicante · Brussels — <a href="https://sevives.com">sevives.com</a></sub>
+<sub>SevivɘƧ Agency — Alicante — <a href="https://sevives.com">sevives.com</a></sub>
 </div>
