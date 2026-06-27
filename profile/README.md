@@ -34,7 +34,7 @@ no rented black box, no Sevives SaaS.
 ### 🚀 What we build
 
 - **AI Mastery** — get your team fluent and productive with AI.
-- **Network Management & Advertising Campaigns AI** — AI-driven content & campaigns at scale.
+- **Network Management & Advertising Campaigns** — AI-driven content & campaigns at scale.
 - **AI Visual Generation** — AI visual production pipelines.
 
 ---
